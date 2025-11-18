@@ -1,8 +1,10 @@
+<h1 align="center">Convertidor de monedas en JAVA </h1>
+
 <p align="center">
 <img width="208" height="190" alt="images (1)" src="https://github.com/user-attachments/assets/dad1c06d-0a42-4954-98b2-af684064b15b" />
 <p align="center">
   
-<h1 align="center">Convertidor de monedas en JAVA </h1>
+
 
 ## :hammer: Descripcion de proyecto. 
 
